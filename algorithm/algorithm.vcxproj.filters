@@ -13,13 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\math">
+      <UniqueIdentifier>{e7bf1fa0-1fd0-4162-8b57-905fd329a1c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\implementation">
+      <UniqueIdentifier>{d675ed1d-578d-47b1-9c22-9c947d06c43c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Sieve_of_Eratosthenes.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\math</Filter>
     </ClCompile>
-    <ClCompile Include="prime_number.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="bingo.cpp">
+      <Filter>소스 파일\implementation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
