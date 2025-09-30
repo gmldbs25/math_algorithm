@@ -27,5 +27,8 @@
     <ClCompile Include="bingo.cpp">
       <Filter>소스 파일\implementation</Filter>
     </ClCompile>
+    <ClCompile Include="make_birdge.cpp">
+      <Filter>소스 파일\math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
