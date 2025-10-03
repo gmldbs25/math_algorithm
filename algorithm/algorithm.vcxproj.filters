@@ -21,13 +21,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sieve_of_Eratosthenes.cpp">
+    <ClCompile Include="1929_Sieve_of_Eratosthenes.cpp">
       <Filter>소스 파일\math</Filter>
     </ClCompile>
     <ClCompile Include="bingo.cpp">
       <Filter>소스 파일\implementation</Filter>
     </ClCompile>
-    <ClCompile Include="make_birdge.cpp">
+    <ClCompile Include="1010_make_birdge.cpp">
+      <Filter>소스 파일\math</Filter>
+    </ClCompile>
+    <ClCompile Include="1026_ice.cpp">
+      <Filter>소스 파일\math</Filter>
+    </ClCompile>
+    <ClCompile Include="1629_multiply.cpp">
       <Filter>소스 파일\math</Filter>
     </ClCompile>
   </ItemGroup>
